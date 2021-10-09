@@ -1,0 +1,7 @@
+.field{
+    display: inline-block;
+    width: 15rem;
+    height: 2rem;
+    line-height: 2rem;
+    text-align: center;
+}
