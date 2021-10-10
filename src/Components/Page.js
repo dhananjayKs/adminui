@@ -10,8 +10,8 @@ export function Page({ Num, list }) {
 	}
 
 	return (
-		<div>
-			<h1>Page {Num}</h1>
+		<div className='mx-auto w-4/5 h-4/5 rounded-sm border-2 border-blue-600'>
+			
 			{cards}
 		</div>
 	);
